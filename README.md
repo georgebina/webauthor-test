@@ -5,6 +5,12 @@ Tests for the oXygen XML Web Author
 
   https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html
 
+1. Lightweight DITA topic
+
+  New topic
+  
+  https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html?url=github%3A%2F%2FgetFileContent%2Fgeorgebina%2Fwebauthor-test%2Fmaster%2FSample-lightweight-dita.dita
+  
 1. DITA-OT documentation
 
   https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html?url=github%3A%2F%2FgetFileContent%2Fgeorgebina%2Fdocs%2Freview%2Fuserguide-book.ditamap
