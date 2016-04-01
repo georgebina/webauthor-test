@@ -1,6 +1,21 @@
 # webauthor-test
 Tests for the oXygen XML Web Author
 
+Project links
+=============
+
+Edit this project files
+
+https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html?gh_repo=georgebina/webauthor-test&gh_branch=master
+
+DITA-OT documentation
+
+https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html?gh_repo=georgebina/docs&gh_branch=review&gh_ditamap=userguide-book.ditamap
+
+
+Direct links
+============
+
 1. Dashboard
 
   https://www.oxygenxml.com/webapp-demo-aws/app/oxygen.html
