@@ -2,7 +2,28 @@
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
 <topic id="topic_ej5_fbv_mv">
   <title>Test</title>
+  <shortdesc>Test</shortdesc>
   <body>
     <p></p>
+    <simpletable id="simpletable_yx1_gzz_nv">
+      <sthead>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </sthead>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+    </simpletable>
   </body>
 </topic>
