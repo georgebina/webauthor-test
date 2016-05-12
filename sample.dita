@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_sbf_ybg_yv">
+  <title>Security profile version</title>
+  <refbody>
+    <properties id="properties_fs1_fcg_yv">
+      <property>
+        <proptype>Element</proptype>
+        <propvalue>description</propvalue>
+      </property>
+      <property>
+        <proptype>Type</proptype>
+        <propvalue>string</propvalue>
+      </property>
+      <property>
+        <proptype>Constraint</proptype>
+        <propvalue>max 255 characters</propvalue>
+      </property>
+      <property>
+        <proptype>Presence</proptype>
+        <propvalue>optional</propvalue>
+      </property>
+      <property>
+        <proptype>INFO</proptype>
+        <propvalue>With this field the Security Agent has the possibility to insert a longer name or
+          explanation of the Security Profile </propvalue>
+      </property>
+    </properties>
+    <properties id="properties_pwk_tcg_yv">
+      <property>
+        <proptype>Element</proptype>
+        <propvalue>dateCreated</propvalue>
+      </property>
+      <property>
+        <proptype>Type</proptype>
+        <propvalue>datetime string</propvalue>
+      </property>
+      <property>
+        <proptype>Constraint</proptype>
+        <propvalue>YYYY-MM-DDTHH:mm:ss</propvalue>
+      </property>
+      <property>
+        <proptype>Presence</proptype>
+        <propvalue>required</propvalue>
+      </property>
+      <property>
+        <proptype>INFO</proptype>
+        <propvalue>Date and timestamp when the Security Profile was created for the first
+          time</propvalue>
+      </property>
+    </properties>
+  </refbody>
+</reference>
