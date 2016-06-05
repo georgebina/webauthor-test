@@ -3,7 +3,36 @@
 <topic id="topic_ej5_fbv_mv">
   <title/>
   <shortdesc/>
+  <prolog>
+    <data name="Test" value="George"/>
+  </prolog>
   <body>
     <p></p>
+    <simpletable id="simpletable_ssm_f5y_2w">
+      <sthead>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </sthead>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+      <strow>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+        <stentry/>
+      </strow>
+    </simpletable>
   </body>
 </topic>
